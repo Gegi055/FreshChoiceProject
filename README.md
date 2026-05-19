@@ -1,4 +1,4 @@
-For everything to work u need to dowmload flutter from here https://docs.flutter.dev/install/quick thne install Flutter SDK in VS code.
+For everything to work u need to dowmload flutter from here https://docs.flutter.dev/install/quick then install Flutter SDK in VS code.
 After you've done that download Flutter and Dart extenstions in VS code.
 Almost there now copy paste these commands in the VS terminal in this order
     flutter doctor 
